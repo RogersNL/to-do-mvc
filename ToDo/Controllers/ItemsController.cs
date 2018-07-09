@@ -32,17 +32,17 @@ namespace ToDo.Controllers
       List<Item> allItems = Item.GetAll();
       return View("Index", allItems);
     }
-    [HttpPost("/items/delete")]
-    public ActionResult DeleteAll()
-    {
-        Item.ClearAll();
-        return View();
-    }
-    [HttpGet("/items/{id}")]
-    public ActionResult Details(int id)
-    {
-        Item item = Item.Find(id);
-        return View(item);
-    }
+    // [HttpPost("/items/delete")]
+    // public ActionResult DeleteAll()
+    // {
+    //     Item.ClearAll();
+    //     return View();
+    // }
+    // [HttpGet("/items/{id}")]
+    // public ActionResult Details(int id)
+    // {
+    //     Item item = Item.Find(id);
+    //     return View(item);
+    // }
   }
 }
