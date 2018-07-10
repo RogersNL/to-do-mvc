@@ -11,3 +11,16 @@
 /Users/Guest/Desktop/Todo.Solutions/ToDo.Tests/obj/Debug/netcoreapp1.1/ToDo.Tests.AssemblyInfo.cs
 /Users/Guest/Desktop/Todo.Solutions/ToDo.Tests/obj/Debug/netcoreapp1.1/ToDo.Tests.dll
 /Users/Guest/Desktop/Todo.Solutions/ToDo.Tests/obj/Debug/netcoreapp1.1/ToDo.Tests.pdb
+/Users/Guest/Desktop/to-do-mvc/ToDo.Tests/bin/Debug/netcoreapp1.1/ToDo.Tests.deps.json
+/Users/Guest/Desktop/to-do-mvc/ToDo.Tests/bin/Debug/netcoreapp1.1/ToDo.Tests.runtimeconfig.json
+/Users/Guest/Desktop/to-do-mvc/ToDo.Tests/bin/Debug/netcoreapp1.1/ToDo.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/to-do-mvc/ToDo.Tests/obj/Debug/netcoreapp1.1/ToDo.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/to-do-mvc/ToDo.Tests/obj/Debug/netcoreapp1.1/ToDo.Tests.dll
+/Users/Guest/Desktop/to-do-mvc/ToDo.Tests/obj/Debug/netcoreapp1.1/ToDo.Tests.pdb
+/Users/Guest/Desktop/to-do-mvc/ToDo.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/to-do-mvc/ToDo.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/to-do-mvc/ToDo.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/to-do-mvc/ToDo.Tests/bin/Debug/netcoreapp1.1/ToDo.Tests.dll
+/Users/Guest/Desktop/to-do-mvc/ToDo.Tests/bin/Debug/netcoreapp1.1/ToDo.Tests.pdb
+/Users/Guest/Desktop/to-do-mvc/ToDo.Tests/bin/Debug/netcoreapp1.1/ToDo.dll
+/Users/Guest/Desktop/to-do-mvc/ToDo.Tests/bin/Debug/netcoreapp1.1/ToDo.pdb
